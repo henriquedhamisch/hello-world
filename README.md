@@ -1,2 +1,4 @@
 # hello-world
-A repository for learning the basics of Git
+
+Hey!
+My name is Henrique and I'm trying to learn the basics of git.
